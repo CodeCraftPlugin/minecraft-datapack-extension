@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-datapack-extension",
+  "displayName": "Minecraft Datapack Extension",
+  "description": "All the extension you need to make datapacks",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "HugeBlack.mcfdebugger",
+    "SPGoding.datapack-language-server",
+    "ratquaza.recipe-creator",
+    "HuJohner.mc-datapack",
+    "stone926.minecraft-resourcepack-helper",
+    "Oran9eUtan.mcmodel-viewer",
+    "Nobuwu.mc-color",
+    "Boomber.mc-math-generator"
+
+  ]
+}
