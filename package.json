@@ -9,6 +9,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "url": "https://github.com/CodeCraftPlugin/minecraft-datapack-extension"
+  },
+  "license": "MIT",
   "extensionPack": [ 
     "HugeBlack.mcfdebugger",
     "SPGoding.datapack-language-server",
