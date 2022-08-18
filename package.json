@@ -2,10 +2,15 @@
   "name": "minecraft-datapack-extension",
   "displayName": "Minecraft Datapack Extension",
   "description": "All the extension you need to make datapacks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.70.0"
   },
+  "publisher": "maskedcoder",
+  "author": {
+    "name": "Masked Coder"
+  },
+  "icon": "codecraft.png",  
   "categories": [
     "Extension Packs"
   ],
