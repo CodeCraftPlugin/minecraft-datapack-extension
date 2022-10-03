@@ -2,7 +2,7 @@
   "name": "minecraft-datapack-extension",
   "displayName": "Minecraft Datapack Extension",
   "description": "All the extension you need to make datapacks",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -23,7 +23,6 @@
     "SPGoding.datapack-language-server",
     "ratquaza.recipe-creator",
     "HuJohner.mc-datapack",
-    "stone926.minecraft-resourcepack-helper",
     "Oran9eUtan.mcmodel-viewer",
     "Nobuwu.mc-color",
     "Boomber.mc-math-generator"
