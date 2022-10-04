@@ -25,7 +25,11 @@
     "HuJohner.mc-datapack",
     "Oran9eUtan.mcmodel-viewer",
     "Nobuwu.mc-color",
-    "Boomber.mc-math-generator"
+    "Boomber.mc-math-generator",
+    "christian-kohler.path-intellisense",
+    "PKief.material-icon-theme",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "ExAtom.better-datapack"
 
   ]
 }
